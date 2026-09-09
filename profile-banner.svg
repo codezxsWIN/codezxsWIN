@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050816"/>
+      <stop offset="0.55" stop-color="#0b1830"/>
+      <stop offset="1" stop-color="#17133d"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity=".42"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft"><feGaussianBlur stdDeviation="10"/></filter>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#7dd3fc" stroke-opacity=".08"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+  <circle cx="1000" cy="70" r="260" fill="url(#glow)"/>
+  <circle cx="1040" cy="170" r="90" fill="none" stroke="#38bdf8" stroke-opacity=".35"/>
+  <circle cx="1040" cy="170" r="62" fill="none" stroke="#a78bfa" stroke-opacity=".5"/>
+  <circle cx="1040" cy="170" r="8" fill="#67e8f9"/>
+  <path d="M910 170h260M1040 40v260" stroke="#7dd3fc" stroke-opacity=".16"/>
+  <path d="M890 250c58-85 112-130 150-80s92 8 135-78" fill="none" stroke="#67e8f9" stroke-width="2" stroke-opacity=".65"/>
+  <rect x="65" y="54" width="185" height="30" rx="15" fill="#0f2942" stroke="#38bdf8" stroke-opacity=".5"/>
+  <circle cx="84" cy="69" r="5" fill="#4ade80"/>
+  <text x="98" y="75" fill="#bae6fd" font-family="Consolas, monospace" font-size="14">SYSTEM: CURIOUS</text>
+  <text x="65" y="158" fill="#f8fafc" font-family="Arial, sans-serif" font-weight="700" font-size="62" letter-spacing="3">AKSHAY DAMLE</text>
+  <text x="68" y="201" fill="#67e8f9" font-family="Consolas, monospace" font-size="20" letter-spacing="2">COMPUTER SCIENCE  /  AI  /  CREATIVE TECHNOLOGY</text>
+  <text x="68" y="264" fill="#94a3b8" font-family="Consolas, monospace" font-size="17">I explore → I experiment → I build → I learn</text>
+  <rect x="65" y="299" width="440" height="2" fill="#38bdf8" opacity=".55"/>
+  <rect x="65" y="299" width="120" height="2" fill="#e0f2fe"/>
+</svg>
