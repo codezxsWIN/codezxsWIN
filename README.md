@@ -1,76 +1,62 @@
 <div align="center">
 
-<img src="./profile-banner.svg" width="100%" alt="Akshay Damle — Computer Science, AI and Creative Technology" />
+# Akshay Damle
+### Cybersecurity · AI Security · Bot & Threat Hunting
 
-<br />
+**Exploring how intelligent systems behave when trust boundaries are tested.**
 
-### BUILDING A MINDSET, NOT JUST A STACK.
-
-I am a computer science student drawn to intelligent systems, creative technology, and ideas that challenge how things are usually done.
-
-<br />
-
-[![LinkedIn](https://img.shields.io/badge/CONNECT-LinkedIn-38BDF8?style=flat-square&labelColor=0B1120&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-damle-858263252/) [![GitHub](https://img.shields.io/badge/EXPLORE-GitHub-A78BFA?style=flat-square&labelColor=0B1120&logo=github&logoColor=white)](https://github.com/codezxsWIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square)](https://www.linkedin.com/in/akshay-damle-858263252/)
+[![AI Security](https://img.shields.io/badge/Focus-AI_Security-38BDF8?style=flat-square&labelColor=0B1120)](#research-focus)
+[![Bot Hunting](https://img.shields.io/badge/Focus-Bot_Hunting-A78BFA?style=flat-square&labelColor=0B1120)](#research-focus)
+[![Research](https://img.shields.io/badge/Research-In_Progress-34D399?style=flat-square&labelColor=0B1120)](#current-research)
 
 </div>
 
 ---
 
-### 〔 CURRENT SIGNAL 〕
+I'm a cybersecurity and AI enthusiast, a **Cybersecurity Intern at Anix AI**, and a student at **SVKM's NMIMS Mukesh Patel School of Technology Management & Engineering**.
 
-```text
-STATUS      learning in public
-DIRECTION   computer science × AI × meaningful innovation
-METHOD      question → prototype → observe → improve
-LOOKING FOR problems worth thinking deeply about
-```
+My interests sit at the intersection of AI agents, digital identity, bot detection, and adversarial behavior. I like turning security questions into practical experiments, tools, and evidence that others can inspect.
 
-### 〔 CURIOSITY MAP 〕
+## Research focus
 
-```mermaid
-flowchart LR
-    C[Curiosity] --> AI[Artificial Intelligence]
-    C --> SE[Software Engineering]
-    C --> R[Research]
-    AI --> X[Experiments]
-    SE --> X
-    R --> X
-    X --> I[Useful Ideas]
-```
+- **AI agent security:** containment, tool permissions, prompt injection, and failures at trust boundaries.
+- **Bot detection & hunting:** behavioral signals, synthetic activity, and distinguishing authorized automation from abuse.
+- **Manipulation & digital identity:** how automated actors influence systems, who is behind an action, and whether their authority can be verified.
+- **Defensive engineering:** repeatable tests, useful detection signals, and verifiable outcomes.
 
-### 〔 WHAT DRIVES ME 〕
+## Current research
 
-> I am interested in technology not only as a tool, but as a way to understand systems, test ideas, and create possibilities.
+I'm working on a research paper about **how AI agents can act beyond their intended containment boundaries**. I'm interested in the relationship between agent behavior, tool access, authorization, and the safeguards that constrain actions.
 
-- Finding patterns inside complex problems
-- Learning by turning questions into experiments
-- Connecting technical thinking with real-world impact
-- Building the depth required for future research
+**Status: research in progress.** This profile describes the research direction; it does not claim a published paper or validated findings.
 
-### 〔 WORKING LANGUAGE 〕
+## Selected work
+
+### [mcp_redteam](https://github.com/codezxsWIN/mcp_redteam)
+Runtime security testing for Model Context Protocol servers, with probes for tool poisoning, output injection, changing tool definitions, and resource access risks. Captures transcripts and reproduction steps for investigation.
+
+### [Aura — Autonomous Incident Response](https://github.com/codezxsWIN/Aura-Autonomous-Incident-Response)
+A local incident-response demonstration exploring bounded actions, deterministic policy, independent recovery verification, and tamper-evident evidence. A practical connection between agent autonomy and accountable outcomes.
+
+### [Cybersecurity Knowledge Base](https://github.com/codezxsWIN/1-DAILY-TRYHACKME-ROOM-CHALLENGE)
+Study notes and project work across RAG security, MCP security, SOC triage, and other cybersecurity topics. My space for connecting concepts with hands-on learning.
+
+### [LangChain Inbox Assistant](https://github.com/codezxsWIN/langchain-inbox-assistant)
+A Python notebook project that classifies email with an LLM agent and records metadata in Google Sheets. Hands-on experience with agent workflows and API integrations.
+
+**Also built:** OWASP LLM Sentinel, a VS Code extension for learning and identifying LLM application security risks. [Project introduction on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7468991167682994176/).
+
+## Tools I work with
 
 ![Python](https://img.shields.io/badge/Python-0B1120?style=flat-square&logo=python&logoColor=38BDF8)
-![Java](https://img.shields.io/badge/Java-0B1120?style=flat-square&logo=openjdk&logoColor=F59E0B)
-![Kotlin](https://img.shields.io/badge/Kotlin-0B1120?style=flat-square&logo=kotlin&logoColor=A78BFA)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0B1120?style=flat-square&logo=javascript&logoColor=FDE047)
 ![Git](https://img.shields.io/badge/Git-0B1120?style=flat-square&logo=git&logoColor=F97316)
-![VS Code](https://img.shields.io/badge/VS_Code-0B1120?style=flat-square&logo=visualstudiocode&logoColor=38BDF8)
+![LangChain](https://img.shields.io/badge/LangChain-0B1120?style=flat-square&logo=langchain&logoColor=34D399)
+![MCP](https://img.shields.io/badge/MCP-0B1120?style=flat-square&logoColor=white)
 
-### 〔 NOW LOADING 〕
+## Let's connect
 
-```text
-Computer science foundations  ███████████████░░░  evolving
-AI and emerging technology    ████████████░░░░░░  exploring
-Research mindset              ██████████░░░░░░░░  developing
-Better questions              █████████████████░  always
-```
+Interested in AI security, bot detection, digital identity, or agent containment research? [Connect with me on LinkedIn](https://www.linkedin.com/in/akshay-damle-858263252/).
 
----
-
-<div align="center">
-
-<sub>Curiosity is the beginning. Consistency is the multiplier.</sub>
-<br /><br />
-<img src="https://komarev.com/ghpvc/?username=codezxsWIN&style=flat-square&color=172554&label=SIGNAL+RECEIVED" alt="Profile views" />
-
-</div>
+<sub>The labels above describe interests and tools, not certifications or GitHub achievements.</sub>
