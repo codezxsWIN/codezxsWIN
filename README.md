@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="./profile-banner.svg" width="100%" alt="Akshay Damle — Computer Science, AI and Creative Technology" />
-
 <br />
 
 ### BUILDING A MINDSET, NOT JUST A STACK.
 
-I am a cybersecurity and AI enthusiast exploring intelligent systems, adversarial behavior, and the questions that emerge when software can act on our behalf.
+I am a computer science student drawn to intelligent systems, creative technology, and ideas that challenge how things are usually done.
 
 <br />
 
@@ -20,7 +18,7 @@ I am a cybersecurity and AI enthusiast exploring intelligent systems, adversaria
 
 ```text
 STATUS      learning in public
-DIRECTION   cybersecurity × AI × agent trust
+DIRECTION   computer science × AI × meaningful innovation
 METHOD      question → prototype → observe → improve
 LOOKING FOR problems worth thinking deeply about
 ```
@@ -30,45 +28,33 @@ LOOKING FOR problems worth thinking deeply about
 ```mermaid
 flowchart LR
     C[Curiosity] --> AI[Artificial Intelligence]
-    C --> SEC[Cybersecurity]
-    C --> B[Bot Hunting]
+    C --> SE[Software Engineering]
     C --> R[Research]
     AI --> X[Experiments]
-    SEC --> X
-    B --> X
+    SE --> X
     R --> X
     X --> I[Useful Ideas]
 ```
 
-### 〔 RESEARCH VECTOR 〕
+### 〔 WHAT DRIVES ME 〕
 
-> I study how identity, intent, authorization, and agent capability shape trust online.
+> I am interested in technology not only as a tool, but as a way to understand systems, test ideas, and create possibilities.
 
-- **AI agent containment:** tool permissions, prompt injection, escape paths, and safeguards.
-- **Bot detection & hunting:** synthetic activity, behavioral signals, and authorized automation.
-- **Manipulation & digital identity:** who is behind an action and whether authority can be verified.
-- **Defensive engineering:** repeatable tests, evidence, and accountable outcomes.
-
-### 〔 CURRENT RESEARCH 〕
-
-I am working on a research paper about how AI agents can act beyond their intended containment boundaries. Status: **research in progress**.
-
-### 〔 SELECTED WORK 〕
-
-- [**mcp_redteam**](https://github.com/codezxsWIN/mcp_redteam) — runtime probes for MCP tool poisoning, output injection, rug pulls, and resource boundary risks.
-- [**Aura**](https://github.com/codezxsWIN/Aura-Autonomous-Incident-Response) — bounded autonomous incident response with independent verification and evidence receipts.
-- [**Cybersecurity Knowledge Base**](https://github.com/codezxsWIN/1-DAILY-TRYHACKME-ROOM-CHALLENGE) — structured notes and hands-on security learning.
+- Finding patterns inside complex problems
+- Learning by turning questions into experiments
+- Connecting technical thinking with real-world impact
+- Building the depth required for future research
 
 ### 〔 WORKING LANGUAGE 〕
 
-![Python](https://img.shields.io/badge/Python-0B1120?style=flat-square&logo=python&logoColor=38BDF8) ![JavaScript](https://img.shields.io/badge/JavaScript-0B1120?style=flat-square&logo=javascript&logoColor=FDE047) ![Git](https://img.shields.io/badge/Git-0B1120?style=flat-square&logo=git&logoColor=F97316) ![VS Code](https://img.shields.io/badge/VS_Code-0B1120?style=flat-square&logo=visualstudiocode&logoColor=38BDF8)
+![Python](https://img.shields.io/badge/Python-0B1120?style=flat-square&logo=python&logoColor=38BDF8) ![Java](https://img.shields.io/badge/Java-0B1120?style=flat-square&logo=openjdk&logoColor=F59E0B) ![Kotlin](https://img.shields.io/badge/Kotlin-0B1120?style=flat-square&logo=kotlin&logoColor=A78BFA) ![JavaScript](https://img.shields.io/badge/JavaScript-0B1120?style=flat-square&logo=javascript&logoColor=FDE047) ![Git](https://img.shields.io/badge/Git-0B1120?style=flat-square&logo=git&logoColor=F97316) ![VS Code](https://img.shields.io/badge/VS_Code-0B1120?style=flat-square&logo=visualstudiocode&logoColor=38BDF8)
 
 ### 〔 NOW LOADING 〕
 
 ```text
 Computer science foundations  ███████████████░░░  evolving
-AI security and agents        █████████████░░░░░  exploring
-Bot hunting and identity      ██████████░░░░░░░░  researching
+AI and emerging technology    ████████████░░░░░░  exploring
+Research mindset              ██████████░░░░░░░░  developing
 Better questions              █████████████████░  always
 ```
 
