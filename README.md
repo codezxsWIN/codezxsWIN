@@ -1,3 +1,5 @@
+<img src="./profile-banner.svg" width="100%" alt="Akshay Damle — Computer Science, AI and Creative Technology" />
+
 <div align="center">
 
 <br />
