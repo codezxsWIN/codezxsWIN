@@ -12,131 +12,78 @@
 
 <br>
 
-> Building at the edge of AI and adversarial systems, where intelligent automation becomes a threat and detection becomes a craft.
-
-<br>
-
-```text
-STATUS      hunting bots · studying adversarial AI
-BUILDING    detection tools · threat models · sharper intuition
-EXPLORING   behavioral fingerprinting · network forensics · prompt injection
-ASKING      how do you catch something designed to look human?
-```
-
-<br>
-
----
-
-## Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code">
+<p align="center">
+  <strong>I build security tools that explain what they see.</strong><br>
+  CS student exploring bot detection, adversarial AI, and the boundaries of autonomous systems.
 </p>
 
----
+<p align="center">
+  <a href="#selected-work">Selected work</a> &nbsp;·&nbsp;
+  <a href="#research-focus">Research focus</a> &nbsp;·&nbsp;
+  <a href="#toolkit">Toolkit</a>
+</p>
 
-## Focus
+## Selected work
 
-### Bot Detection & Hunting
+<table>
+<tr>
+<td width="50%" valign="top">
+  <sub>01 / BOT DETECTION</sub>
+  <h3><a href="https://github.com/codezxsWIN/crawlerlab">CrawlerLab</a></h3>
+  <p>An explainable crawler-detection and bounded-deception testbed. Inspect request signals, gateway decisions, and reproducible synthetic benchmarks.</p>
+  <p><code>Python</code> <code>HTTPX</code> <code>Uvicorn</code></p>
+  <p><a href="https://github.com/codezxsWIN/crawlerlab">Repository ↗</a> &nbsp;·&nbsp; <a href="https://github.com/codezxsWIN/crawlerlab/blob/main/docs/06-first-experiment.md">First experiment</a></p>
+</td>
+<td width="50%" valign="top">
+  <sub>02 / AGENT SECURITY</sub>
+  <h3><a href="https://github.com/codezxsWIN/mcp_redteam">MCP Redteam</a></h3>
+  <p>A runtime security harness for MCP servers. Probe tool poisoning, output injection, and changing tool definitions, with transcripts and reproduction steps.</p>
+  <p><code>Python</code> <code>MCP</code> <code>Security testing</code></p>
+  <p><a href="https://github.com/codezxsWIN/mcp_redteam">Repository ↗</a> &nbsp;·&nbsp; <a href="https://github.com/codezxsWIN/mcp_redteam#highlights">Capabilities</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <sub>03 / ACCESS &amp; TRUST</sub>
+  <h3><a href="https://github.com/codezxsWIN/radius">Blast Radius</a></h3>
+  <p>An offline graph lab and source analyzer for exploring what credentials can reach. Compare modeled permission changes and trace the source evidence.</p>
+  <p><code>Python</code> <code>IAM</code> <code>Graph analysis</code></p>
+  <p><a href="https://github.com/codezxsWIN/radius">Repository ↗</a> &nbsp;·&nbsp; <a href="https://github.com/codezxsWIN/radius#start-here">Start here</a></p>
+</td>
+<td width="50%" valign="top">
+  <sub>04 / AUTONOMOUS SYSTEMS</sub>
+  <h3><a href="https://github.com/codezxsWIN/Aura-Autonomous-Incident-Response">Aura</a></h3>
+  <p>A local incident-response prototype that verifies recovery before claiming success. Bounded actions, deterministic policy, and tamper-evident evidence receipts.</p>
+  <p><code>Python</code> <code>FastAPI</code> <code>LangGraph</code></p>
+  <p><a href="https://github.com/codezxsWIN/Aura-Autonomous-Incident-Response">Repository ↗</a> &nbsp;·&nbsp; <a href="https://github.com/codezxsWIN/Aura-Autonomous-Incident-Response#see-it-in-action">See it in action</a></p>
+</td>
+</tr>
+</table>
 
-Fingerprinting automated behavior, spotting coordinated inauthentic activity, and building systems that catch what looks almost human, but not quite.
+## Research focus
 
-### AI Security
+- **Automated identities:** behavioral fingerprints, coordinated activity, and the signals that distinguish scripts from people.
+- **Agent trust boundaries:** prompt injection, tool abuse, sandbox containment, and what happens when an agent acts beyond its intended scope.
+- **Security decisions:** vulnerability prioritization, threat intelligence, and explanations that can be traced back to evidence.
 
-Studying how AI systems behave under adversarial pressure, including prompt injection, model manipulation, agent security, and the gap between intended and actual system behavior.
+My approach: make the behavior observable, test the assumption, and document the limits.
 
-### Behavioral Analysis
+## Toolkit
 
-Reading traffic patterns, timing, interaction signals, and digital traces to distinguish organic behavior from scripted or coordinated activity.
+<p>
+  <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&amp;logo=python&amp;logoColor=79c0ff" alt="Python">
+  <img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&amp;logo=fastapi&amp;logoColor=79c0ff" alt="FastAPI">
+  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&amp;logo=javascript&amp;logoColor=79c0ff" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&amp;logo=openjdk&amp;logoColor=79c0ff" alt="Java">
+  <img src="https://img.shields.io/badge/Kotlin-0d1117?style=flat-square&amp;logo=kotlin&amp;logoColor=79c0ff" alt="Kotlin">
+  <img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&amp;logo=git&amp;logoColor=79c0ff" alt="Git">
+</p>
 
-### Research Mindset
-
-Ask the question that does not have an answer yet. Build something that forces the answer out. Document what breaks along the way.
-
----
-
-## Current Interests
-
-```text
-AI SECURITY          adversarial AI · agent security · prompt injection
-BOT HUNTING          automation detection · behavioral fingerprinting
-CYBERSECURITY        network analysis · threat intelligence · forensics
-RESEARCH             AI agents · containment · autonomous systems
-```
-
----
-
-## Projects
-
-### AI Vulnerability Assessment
-
-Exploring context-aware vulnerability prioritization using AI, CVSS, EPSS, exploit intelligence, and real-world system context.
-
-### Agent Containment Research
-
-Studying how autonomous AI agents interact with sandbox boundaries, tools, external systems, and containment mechanisms.
-
-### Bot & Identity Research
-
-Exploring behavioral indicators, digital footprints, and interaction patterns that help distinguish automated identities from legitimate human activity.
-
-### Security Tooling
-
-Building practical tools around red teaming, threat analysis, automated security workflows, and AI-assisted cybersecurity.
-
----
-
-## Featured Projects
-
-<!-- Replace REPO_NAME_1 and REPO_NAME_2 with your actual repository names -->
-
-<div align="center">
-
-<a href="https://github.com/codezxsWIN/REPO_NAME_1">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=codezxsWIN&repo=REPO_NAME_1&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e"
-    alt="Featured Project 1"
-  />
-</a>
-
-<a href="https://github.com/codezxsWIN/REPO_NAME_2">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=codezxsWIN&repo=REPO_NAME_2&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e"
-    alt="Featured Project 2"
-  />
-</a>
-
-</div>
+Python for security tooling and experiments; JavaScript for interfaces; Java and Kotlin for application development.
 
 ---
 
-## GitHub
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=codezxsWIN&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e"
-  height="165"
-  alt="GitHub Stats"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=codezxsWIN&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8b949e"
-  height="165"
-  alt="Top Languages"
-/>
-
-</div>
-
----
-
-<div align="center">
-
-<sub>Curiosity is the beginning. Consistency is the multiplier.</sub>
-
-</div>
+<p align="center">
+  Interested in bot detection, AI security, or an experiment worth testing?<br>
+  <a href="https://www.linkedin.com/in/akshay-damle-858263252/">Let's connect on LinkedIn ↗</a>
+</p>
