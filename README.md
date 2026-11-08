@@ -4,8 +4,10 @@
 
 <br><br>
 
-<!-- Fixed favourites; decorative animation, no live Spotify connection. -->
-<img src="./assets/on-repeat.gif" width="540" alt="On repeat: Ex Freundin (slowed) Brooklyn Bloodpop (slowed), and Faster n Harder, with a spinning CD" />
+<h3>now playing</h3>
+
+<!-- Fixed favourites rotate in a decorative animation. -->
+<img src="./assets/on-repeat.gif" width="720" alt="On repeat: Ex Freundin (slowed) Brooklyn Bloodpop (slowed), and Faster n Harder, with a spinning CD" />
 
 <br><br>
 
