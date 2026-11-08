@@ -5,7 +5,7 @@
 <br><br>
 
 <!-- Fixed favourites; decorative animation, no live Spotify connection. -->
-<img src="./assets/on-repeat.gif" width="540" alt="On repeat: Ex Freundin (slowed) and Brooklyn Bloodpop (slowed), with a spinning CD" />
+<img src="./assets/on-repeat.gif" width="540" alt="On repeat: Ex Freundin (slowed) Brooklyn Bloodpop (slowed), and Faster n Harder, with a spinning CD" />
 
 <br><br>
 
