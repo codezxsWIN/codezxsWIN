@@ -4,6 +4,11 @@
 
 <br><br>
 
+<!-- Fixed favourites; decorative animation, no live Spotify connection. -->
+<img src="./assets/on-repeat.gif" width="540" alt="On repeat: Ex Freundin (slowed) and Brooklyn Bloodpop (slowed), with a spinning CD" />
+
+<br><br>
+
 <a href="https://www.linkedin.com/in/akshay-damle-858263252/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
