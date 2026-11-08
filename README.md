@@ -7,7 +7,7 @@
 <h3>now playing</h3>
 
 <!-- Fixed favourites rotate in a decorative animation. -->
-<img src="./assets/on-repeat.gif" width="720" alt="On repeat: Ex Freundin (slowed) Brooklyn Bloodpop (slowed), and Faster n Harder, with a spinning CD" />
+<img src="./assets/on-repeat.gif" width="400" alt="On repeat: Ex Freundin (slowed) Brooklyn Bloodpop (slowed), and Faster n Harder, with a spinning CD" />
 
 <br><br>
 
